@@ -1,2 +1,2 @@
 # Week2Proj1
-this is day one --> in week2
+this is day one --> in week2 Proj "Temp"
